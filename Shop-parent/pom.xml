@@ -19,10 +19,7 @@
     <packaging>pom</packaging>
 
     <modules>
-        <!--<module>Shop-order-api</module>
-        <module>Shop-order-server</module>
-        <module>Shop-product-api</module>
-        <module>Shop-product-server</module>-->
+        <module>Shop-product-api</module> <!--商品服务-->
     </modules>
 
 
