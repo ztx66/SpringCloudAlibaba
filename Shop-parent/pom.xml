@@ -19,7 +19,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>Shop-product-api</module> <!--商品服务-->
+        <module>Shop-product-api</module>
+        <module>Shop-product-server</module> <!--商品服务-->
     </modules>
 
 
